@@ -2,7 +2,8 @@
 It is simple basic version of Mit scratch app where we can make small animations with limited options
 
 ## Installation
-Make sure that you hav expo go in your device 
+Make sure that you hav expo go in your device  and paste link in it.
+
 To run it 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install npm.
 Then run this command 
